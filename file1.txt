@@ -2,3 +2,4 @@ first file in file1.txt
 second line in file1.txt[A[D[D[D[D[D[D[D[D[D[D[D[D[line[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C
 third line in file1.text
 fourth line in file1.txt
+fifth line in file1.txt
